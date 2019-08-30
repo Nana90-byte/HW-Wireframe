@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif; color:#777; background: #777; width: 960px; font-size: 18px
+}
+header, nav, footer, section, aside {
+    background: #ebebeb
+}
+
+Article {
+    color: #ebebed; background: #777;
+}
+h1, p {
+    color: #777; background: #ebebeb
+}
+Section {
+    width: 495px
+}
+Aside {
+    float: right;
+}
+#portfolio {
+    text-align: center
+}
+#link {
+    text-align: center
+}
